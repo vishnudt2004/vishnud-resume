@@ -3,8 +3,8 @@
 Location: Komarapalayam \- 638183, Namakkal, Tamil Nadu.
 
 Email: [vishnu.d.t.2004@gmail.com](mailto:vishnu.d.t.2004@gmail.com)  
-Portfolio: [https://portfolio-vishnud.vercel.app/](https://portfolio-vishnud.vercel.app/)  
-LinkedIn: [https://linkedin.com/in/vishnu-d-28b7a52b1](https://linkedin.com/in/vishnu-d-28b7a52b1)  
+Portfolio: [https://portfolio-vishnud.vercel.app](https://portfolio-vishnud.vercel.app/)  
+LinkedIn: [https://linkedin.com/in/vishnu-dt](https://linkedin.com/in/vishnu-d-28b7a52b1)  
 GitHub: [https://github.com/vishnudt2004](https://github.com/vishnudt2004)
 
 ---
