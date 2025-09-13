@@ -1,18 +1,7 @@
 # Vishnu D – Resume
 
-This repo contains the most recent and previous versions of my resume in multiple formats:
+This repo hosts my latest resume in **PDF format**.  
+Designed and kept up to date for easy access and sharing.
 
-- PDF
-- DOCX
-- Markdown (.md)
-- HTML
-- TXT
-
-🛠️ Created and maintained using **Google Docs**
-🗂️ Version-controlled to track updates and iterations
-
-Use this repo to:
-
-- Share my latest resume
-- Quickly switch or export formats
-- Review past changes or rebuild from scratch
+📄 Always current version in one place  
+🗂️ Older versions tracked via commits
